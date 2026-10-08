@@ -242,12 +242,18 @@ PA_Score/
 
 ## Citation
 ```
-TODO
+@article{xin2026conformal,
+  title={Conformal Prediction with Paraphrase-Aware Scoring for LLM Uncertainty Quantification},
+  author={Xin, Jiayi and Qiang, Evan and Zhu, Zihan and Li, Xiang and Su, Weijie J and Long, Qi},
+  journal={arXiv preprint arXiv:2610.04239},
+  year={2026}
+}
 ```
 
 ## Acknowledgments
 
 This work builds upon and adapts code from:
 
+- Cox et al. (2025) for paraphrase generation prompts
 - Ye et al. (2024) for uncertainty quantification baselines
 - Google's uncertainty-baselines for ECE loss implementations
