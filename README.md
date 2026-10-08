@@ -5,6 +5,7 @@
 Official implementation of [**Conformal Prediction with Paraphrase-Aware Scoring for LLM Uncertainty Quantification**](https://arxiv.org/abs/2610.04239), accepted as a poster at NeurIPS 2026.
 
 **Authors:** [Jiayi Xin](https://raina-xin.github.io/), Evan Qiang, Zihan Zhu, [Xiang Li](https://lx10077.github.io/), [Weijie J. Su](https://www.weijie-su.com/), and [Qi Long](https://www.med.upenn.edu/long-lab/).
+
 **Research Blog:** [Link to blog post](https://raina-xin.github.io/research-blog/pa/)
 
 ## Overview
